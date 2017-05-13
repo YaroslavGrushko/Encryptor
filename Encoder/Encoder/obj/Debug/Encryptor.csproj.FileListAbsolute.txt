@@ -1,0 +1,8 @@
+d:\Работа\Encryption\Encoder\Encoder\obj\Debug\Encoder.Form1.resources
+d:\Работа\Encryption\Encoder\Encoder\obj\Debug\Encryptor.csproj.GenerateResource.Cache
+d:\Работа\Encryption\Encoder\Encoder\bin\Debug\Encryptor.exe.config
+d:\Работа\Encryption\Encoder\Encoder\bin\Debug\Encryptor.exe
+d:\Работа\Encryption\Encoder\Encoder\bin\Debug\Encryptor.pdb
+d:\Работа\Encryption\Encoder\Encoder\obj\Debug\Encryptor.Properties.Resources.resources
+d:\Работа\Encryption\Encoder\Encoder\obj\Debug\Encryptor.exe
+d:\Работа\Encryption\Encoder\Encoder\obj\Debug\Encryptor.pdb

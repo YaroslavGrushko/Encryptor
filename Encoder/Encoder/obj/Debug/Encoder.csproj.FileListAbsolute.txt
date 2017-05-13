@@ -1,0 +1,18 @@
+C:\Users\Yaroslav\Documents\Visual Studio 2015\Projects\Encoder\Encoder\bin\Debug\Encoder.exe.config
+C:\Users\Yaroslav\Documents\Visual Studio 2015\Projects\Encoder\Encoder\bin\Debug\Encoder.exe
+C:\Users\Yaroslav\Documents\Visual Studio 2015\Projects\Encoder\Encoder\bin\Debug\Encoder.pdb
+C:\Users\Yaroslav\Documents\Visual Studio 2015\Projects\Encoder\Encoder\obj\Debug\Encoder.csprojResolveAssemblyReference.cache
+C:\Users\Yaroslav\Documents\Visual Studio 2015\Projects\Encoder\Encoder\obj\Debug\Encoder.Form1.resources
+C:\Users\Yaroslav\Documents\Visual Studio 2015\Projects\Encoder\Encoder\obj\Debug\Encoder.Properties.Resources.resources
+C:\Users\Yaroslav\Documents\Visual Studio 2015\Projects\Encoder\Encoder\obj\Debug\Encoder.csproj.GenerateResource.Cache
+C:\Users\Yaroslav\Documents\Visual Studio 2015\Projects\Encoder\Encoder\obj\Debug\Encoder.exe
+C:\Users\Yaroslav\Documents\Visual Studio 2015\Projects\Encoder\Encoder\obj\Debug\Encoder.pdb
+d:\Работа\Encryption\Encoder\Encoder\bin\Debug\Encoder.exe.config
+d:\Работа\Encryption\Encoder\Encoder\obj\Debug\Encoder.exe
+d:\Работа\Encryption\Encoder\Encoder\obj\Debug\Encoder.pdb
+d:\Работа\Encryption\Encoder\Encoder\bin\Debug\Encoder.exe
+d:\Работа\Encryption\Encoder\Encoder\bin\Debug\Encoder.pdb
+d:\Работа\Encryption\Encoder\Encoder\obj\Debug\Encoder.csprojResolveAssemblyReference.cache
+d:\Работа\Encryption\Encoder\Encoder\obj\Debug\Encoder.Form1.resources
+d:\Работа\Encryption\Encoder\Encoder\obj\Debug\Encoder.Properties.Resources.resources
+d:\Работа\Encryption\Encoder\Encoder\obj\Debug\Encoder.csproj.GenerateResource.Cache

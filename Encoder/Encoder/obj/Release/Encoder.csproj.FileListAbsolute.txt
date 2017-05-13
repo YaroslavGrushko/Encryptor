@@ -1,0 +1,9 @@
+d:\Работа\Encryption\Encoder\Encoder\bin\Release\Encoder.exe.config
+d:\Работа\Encryption\Encoder\Encoder\bin\Release\Encoder.exe
+d:\Работа\Encryption\Encoder\Encoder\bin\Release\Encoder.pdb
+d:\Работа\Encryption\Encoder\Encoder\obj\Release\Encoder.csprojResolveAssemblyReference.cache
+d:\Работа\Encryption\Encoder\Encoder\obj\Release\Encoder.Form1.resources
+d:\Работа\Encryption\Encoder\Encoder\obj\Release\Encoder.Properties.Resources.resources
+d:\Работа\Encryption\Encoder\Encoder\obj\Release\Encoder.csproj.GenerateResource.Cache
+d:\Работа\Encryption\Encoder\Encoder\obj\Release\Encoder.exe
+d:\Работа\Encryption\Encoder\Encoder\obj\Release\Encoder.pdb
