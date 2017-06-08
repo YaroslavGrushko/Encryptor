@@ -16,8 +16,8 @@ or generate it by clicking the "Generate a Key" button.
 # For text decryption:
 1)Choose the "Text" radio button.  
 2)Select the encrypted file by clicking on the "Open a File" button.  
-4)If you did not save the key, enter the key with which the file was encrypted into the key field.  
-3)Click "Extract text(decrypt)" button to extract decrypted text into the textbox.  
+3)If you did not save the key, enter the key with which the file was encrypted into the key field.  
+4)Click "Extract text(decrypt)" button to extract decrypted text into the textbox.  
 
 # For file encryption:
 1)Choose the "File" radio button.  
